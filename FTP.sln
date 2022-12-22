@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FTP_client_lib", "FTP_client_lib\FTP_client_lib.csproj", "{1E897417-9FA3-4FA9-ACD5-C6FEE230E28A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Device_lib", "CLI_FTP\Device_lib.csproj", "{7CCF110B-CDD5-40B5-8A36-C0147165A5B0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Device_Manager", "TZA_Ftp_Manager\Device_Manager.csproj", "{C3F263F8-FED6-473C-A88F-F05C7341B64E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E897417-9FA3-4FA9-ACD5-C6FEE230E28A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E897417-9FA3-4FA9-ACD5-C6FEE230E28A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E897417-9FA3-4FA9-ACD5-C6FEE230E28A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E897417-9FA3-4FA9-ACD5-C6FEE230E28A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CCF110B-CDD5-40B5-8A36-C0147165A5B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CCF110B-CDD5-40B5-8A36-C0147165A5B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CCF110B-CDD5-40B5-8A36-C0147165A5B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CCF110B-CDD5-40B5-8A36-C0147165A5B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3F263F8-FED6-473C-A88F-F05C7341B64E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3F263F8-FED6-473C-A88F-F05C7341B64E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3F263F8-FED6-473C-A88F-F05C7341B64E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3F263F8-FED6-473C-A88F-F05C7341B64E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9947A14-75C1-4B7A-903F-C460F27F2CD2}
+	EndGlobalSection
+EndGlobal

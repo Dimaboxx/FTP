@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Device_Manager": {
+      "commandName": "Project",
+      "commandLineArgs": "\\f .\\TST.json \\g TST"
+    }
+  }
+}
